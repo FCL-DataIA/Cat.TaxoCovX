@@ -1,0 +1,48 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "applicationCategory": "Technology for biodiversity",
+    "author": [
+        {
+            "id": "https://orcid.org/my-orcid?orcid=0000-0002-1276-0707",
+            "type": "Person",
+            "affiliation": {
+                "type": "Organization",
+                "name": "Pôle National des Données de Biodiversité"
+            },
+            "email": "francis.clement@essec.edu",
+            "familyName": "CLEMENT",
+            "givenName": "Francis"
+        },
+        {
+            "type": "Role",
+            "schema:author": "https://orcid.org/my-orcid?orcid=0000-0002-1276-0707",
+            "roleName": "Chief Operating Officer",
+            "startDate": "2025-02-25"
+        }
+    ],
+    "codeRepository": "https://github.com/FCLMNHN/Cat.taxoCovX",
+    "dateCreated": "2026-03-31",
+    "dateModified": "2026-04-09",
+    "datePublished": "2026-06-10",
+    "description": "A two-step Python pipeline to automatically enrich the metadata of datasets in an OpenDataSoft (ODS) portal with their taxonomic coverage, by combining a local LLM with reference biological APIs..",
+    "downloadUrl": "https://github.com/FCLMNHN/Cat.taxoCovX",
+    "keywords": [
+        "catalog",
+        "taxa"
+        "taxonomic coverage"
+    ],
+    "license": "https://spdx.org/licenses/MIT",
+    "name": "Cat.taxoCovX",
+    "operatingSystem": [
+        "MacOS",
+        "Linux",
+        "Unix",
+        "Windows"
+    ],
+    "programmingLanguage": "Python",
+    "relatedLink": "https://www.pnfb.fr",
+    "releaseNotes": "This script automatically enriches the metadata of PNDB datasets with comprehensive, standardised taxonomic coverage.",
+    "version": "3.0",
+    "issueTracker": "https://github.com/FCLMNHN/Cat.taxoCovX/issues"
+}
