@@ -26,7 +26,7 @@
     "dateModified": "2026-04-09",
     "datePublished": "2026-06-10",
     "description": "A two-step Python pipeline to automatically enrich the metadata of datasets in an OpenDataSoft (ODS) portal with their taxonomic coverage, by combining a local LLM with reference biological APIs..",
-    "downloadUrl": "https://github.com/FCLMNHN/Cat.taxoCovX",
+    "downloadUrl": "https://github.com/FCL-DataIA/Cat.TaxoCovX",
     "keywords": [
         "catalog",
         "taxa"
@@ -44,5 +44,5 @@
     "relatedLink": "https://www.pnfb.fr",
     "releaseNotes": "This script automatically enriches the metadata of PNDB datasets with comprehensive, standardised taxonomic coverage.",
     "version": "3.0",
-    "issueTracker": "https://github.com/FCLMNHN/Cat.taxoCovX/issues"
+    "issueTracker": "https://github.com/FCL-DataIA/Cat.TaxoCovX/issues"
 }
